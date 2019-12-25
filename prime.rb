@@ -3,6 +3,6 @@
 number=
 
 def prime?(number)
-
+if nu
 end
 end
