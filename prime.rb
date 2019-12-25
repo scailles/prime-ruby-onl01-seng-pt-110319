@@ -4,6 +4,6 @@ number=
 
 def prime?(number)
 divsors=(2..(number-1)).to_a
-if divsors.any? 
+if divsors.any? {|i| 
 end
 end
