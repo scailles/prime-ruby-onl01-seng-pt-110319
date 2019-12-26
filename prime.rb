@@ -11,8 +11,8 @@ when number <=1
 when number<=3
   return true
   
-when 
-(2..number - 1).none? {|x| number%x!= 0}
+when (2..number - 1).none? {|x| number%x!= 0}
+when
 else 
   else (2..number - 1).any? {|x| number%x!= 0}
 end
