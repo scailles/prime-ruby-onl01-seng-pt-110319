@@ -7,6 +7,7 @@ answer=[]
 divisors.each do |d|
   answer<<"#{number}/d"
 end
-#{answer}.integer? 
+#{answer}.integer? "True":"False"
+end
 
 end
