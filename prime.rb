@@ -8,5 +8,6 @@ answer=[]
 divisors.each do |d|
   #{integer}/d
 end
-if answer=int
+if answer=integer<=TRUE
+  puts 
 end
