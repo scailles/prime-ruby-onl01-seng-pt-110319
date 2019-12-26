@@ -8,3 +8,4 @@ divisors.each do |d|
   answer=#{number}/d
 answer.Integer? "True":"False"
 end
+end
