@@ -8,9 +8,4 @@ answer=[]
 divisors.each do |d|
   answer<< integer/d
 end
-if answer=TRUE
-  puts "True"
-  elsif answer=FALSE
-  puts "False"
-end
 end
