@@ -8,7 +8,7 @@ return false
 elsif number<=3
 return true
 else (2..number - 1).any? {|x| number%x!= 0}
-else false
+
 end
 end
 end
