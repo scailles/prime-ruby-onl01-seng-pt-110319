@@ -9,3 +9,4 @@ elsif number<=3
 return true
 else (2..number - 1).none? {|x| number%x!= 0}
 end
+end
