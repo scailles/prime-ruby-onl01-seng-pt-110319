@@ -9,5 +9,8 @@ divisors.each do |d|
   #{integer}/d
 end
 if answer=integer<=TRUE
-  puts 
+  puts "True"
+  elsif answer=integer<=FALSE
+  puts "False"
+end
 end
