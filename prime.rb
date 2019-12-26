@@ -6,4 +6,6 @@ def prime?(integer)
 divisors=[2,3]
 
 divisors.each do |d|
-  #(integer)/d=
+  #{integer}/d= (int<=TRUE)
+end
+end
