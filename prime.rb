@@ -8,4 +8,5 @@ answer=[]
 divisors.each do |d|
   answer<<"number/d"
 end
+if answser
 end
