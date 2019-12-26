@@ -1,11 +1,11 @@
 # Add  code here!
 
-integer=[]
+number=[]
 
-def prime?(integer)
+def prime?(number)
 divisors=[2,3]
 answer=[]
 divisors.each do |d|
-  answer<< integer/d
+  answer<<"number/d
 end
 end
