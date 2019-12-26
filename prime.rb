@@ -5,5 +5,8 @@ def prime?(number)
 
 if number<=1
 return false
-if number
+elsif number<=2||3
+return true
+else
+  
 end
