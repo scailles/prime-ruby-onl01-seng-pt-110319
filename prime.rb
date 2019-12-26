@@ -1,5 +1,5 @@
 # Add  code here!
-number=[]
+number=[11]
 
 def prime?(number)
 
