@@ -9,4 +9,4 @@ divisors.each do |d|
 
 #{answer}.integer? "True":"False"
 end
-
+end
