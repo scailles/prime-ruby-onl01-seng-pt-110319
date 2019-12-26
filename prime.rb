@@ -6,10 +6,10 @@ def prime?(number)
 case result||number
 
 when number <=1 
-  return false
+  return FALSE
   
 when number<=3
-  return true
+  return TRUE
   
 when (2..number - 1).none? {|x| number%x!= 0}
   
