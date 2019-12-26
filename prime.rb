@@ -7,6 +7,5 @@ if number<=1
 return false
 elsif number<=2||3
 return true
-else
-  
+else 
 end
