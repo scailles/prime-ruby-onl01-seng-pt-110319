@@ -13,5 +13,5 @@ when number<=3
   
 when (2..number - 1).none? {|x| number%x!= 0}
   
-
+end
 end
