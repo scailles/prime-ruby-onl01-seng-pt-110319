@@ -7,5 +7,5 @@ if number<=1
 return false
 elsif number<=3
 return true
-else 
+else (2..n - 1).all? {|x| n%x!= 0}
 end
